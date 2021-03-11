@@ -39,5 +39,6 @@ Edit requires in packages.py if you want to edit dependencies.
 
 Execute doc_html.sh or _md and it should work.
 .bat is used on windows for rez command :
+
 ``` rez-env Sphinx_rezPackage -- doc_html ```
 
