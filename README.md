@@ -1,15 +1,5 @@
 # Sphinx rez Package
 
-## Indices and tables
-
-
-* Presentation
-
-
-* Installation
-
-
-* Usage
 
 ## Presentation
 
@@ -22,7 +12,7 @@ with [Sphinx](https://github.com/sphinx-doc/sphinx), [Sphinx-markdown-builder](h
 - out of html and md : doc\sphinx\build
 
 
-## Installation
+## Getting Started
 
 Put this package into you rez packages folder
 
