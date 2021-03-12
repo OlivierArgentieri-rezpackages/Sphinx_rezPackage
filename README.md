@@ -3,7 +3,7 @@
 
 ## Presentation
 
-(juste a reminder for me)
+(just a reminder)
 
 Just an [rez](https://github.com/nerdvegas/rez) Package example with script to easily generate documentation in html and md.
 
